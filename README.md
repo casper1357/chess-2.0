@@ -1,1 +1,1 @@
-# chess-2.0
+# chess-2.0 with python using pygame
